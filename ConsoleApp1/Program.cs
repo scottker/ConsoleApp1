@@ -16,6 +16,8 @@ namespace ConsoleApp1
             // Code to call Feature 1
             // MOre code to call Feature 1
             // Code to call the feature 2.
+            // Adding code to call feature2 
+            // Adding code to call feature 3
         }
     }
 }
