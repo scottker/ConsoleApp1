@@ -14,7 +14,22 @@ namespace ConsoleApp1
     {
         public Feature2()
         {
+            addme();
             InitializeComponent();
         }
+
+        private void Feature2_Load(object sender, EventArgs e)
+        {
+
+        }
+        public int addme()
+        {
+            int x1 = 1;
+            int x2 = 2;
+            int sum = x1 + x2;
+            return sum;
+        }
+
     }
+
 }
